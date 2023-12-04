@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alimn-Prog
+- 👋 Hi, I’m Ali Mohammadinezhad
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning backend develop with django
 
