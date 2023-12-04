@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Mohammadinezhad
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Machine learning and data science , I'm also backend developer with lovely Django
 - 🌱 I’m currently learning backend develop with django
 
 <!---
